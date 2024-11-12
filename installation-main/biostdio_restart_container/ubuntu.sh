@@ -1,3 +1,4 @@
+# Owner : BioTring 
 #! /bin/bash
 
 set -e
